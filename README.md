@@ -1,7 +1,8 @@
 # Classic-Car-online-selling
 
-# this system will help someone who need to buy a car. Its easy to make a car order and easy for payment.
+# This system will help someone who need to buy a car. Its easy to make a car order and easy for payment.
 # Admin username:admin, password:admin
+# Use car.sql as database
 
 1. Create an Account 
 2. Login using username and password 
